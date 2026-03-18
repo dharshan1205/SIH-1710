@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 16.12.2025
-## Register Number: 212222240003
-## Name: Adhithya S
+# Date: 18/03/2025
+## Register Number: 212224230060
+## Name: DHARSHAN R
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 
